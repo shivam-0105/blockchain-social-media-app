@@ -28,6 +28,6 @@ A decentralized social network that runs on blockchain where users are rewarded 
 ## Contact Me
 Mail Id : shivampanchal0105@gmail.com
 <br />
-LinkedIn : [Shivam Panchal](https://www.linkedin.com/in/shivam-panchal-3947391b0/)
+LinkedIn : [Shivam Panchal](https://www.linkedin.com/in/shivampanchal0105/)
 
 Thank you for spending your precious time. Have a nice day :grin:
