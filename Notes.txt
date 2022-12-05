@@ -1,0 +1,29 @@
+- Decentralized social network that runs on blockchain where users are rewarded for creating good content .
+- They are able to share their status updates on their social media posts on the blockchain and other users can tip them with crypto-currency and the best post in the social media rises to the top. 
+- This is also a censorship resistant social network where no intermediaries can tell you what you can and can't post or what content you can't see 
+
+- We will use Ganache as our personal blockchain. A personal blockchain is like a real blockchain network that is connected to the public or anyone can connnect it but it runs on our computer. Thus its a closed network.
+- We can use Ganache to develop smart contracts and we can run tests against it, we can run scripts against the network, develop applications that talkt to our blockchain. 
+
+- Truffle Framework: To develop ethereum smart contracts with solidity programming language. 
+- Truffle is a suite of tools that allows us to develop smart contracts, write tests against smart contracts, deploy smart contracts to the blockchain, gives development console and allows us to develop client side 
+
+- Metamask: A special browser extension in order to connect to the Ethereum network and just allows to interact with the smart contract 
+
+- When we open Ganache, this will be our development blockchain that we will use to create our smart contracts. It comes with 10 accounts and each of these accounts comes with pre-mined 100 face ether. Each of these accounts is going to represent all the users on our network.
+Address - Username
+Private key - Password
+
+- Mocha Testing Framework : Helps in testing smart contract. 
+
+- Chai Assertion Library : It helps us in writing test assertion library. 
+
+- Testing of smart contract is required as once it is uploaded, the code cannot be changed.
+
+- 1. Create posts
+  2. List all the posts
+  3. Tip posts
+
+EthGas : Anytime we add new information into the blockchain itself, we need to pay a gas fee. So anytime we make a crypto transaction, we need to pay transaction fees. 
+
+Secret Recovery Phrase : celery trust vintage divide drive march stairs title wreck dust reason melody

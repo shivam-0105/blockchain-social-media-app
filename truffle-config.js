@@ -2,6 +2,9 @@ require('babel-register');
 require('babel-polyfill');
 
 module.exports = {
+  /*
+  Network tells the blockchain we want to connect to 
+  */
   networks: {
     development: {
       host: "127.0.0.1",
@@ -19,4 +22,4 @@ module.exports = {
       }
     }
   }
-}
+} 
